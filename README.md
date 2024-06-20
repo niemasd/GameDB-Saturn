@@ -1,0 +1,2 @@
+# GameDB-Saturn
+Sega Saturn
