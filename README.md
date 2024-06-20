@@ -8,4 +8,4 @@ Sega Saturn, part of [GameDB](https://github.com/niemasd/GameDB).
 * **[`Saturn.titles.json`](https://github.com/niemasd/GameDB-Saturn/releases/latest/download/Saturn.titles.json):** Mapping of serial numbers to game titles, structured in the JSON format
 
 # Sources
-* TODO
+* [Sega Retro](https://segaretro.org/List_of_Saturn_games)
