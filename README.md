@@ -1,5 +1,5 @@
 # GameDB-Saturn
-Nintendo Saturn, part of [GameDB](https://github.com/niemasd/GameDB).
+Sega Saturn, part of [GameDB](https://github.com/niemasd/GameDB).
 
 ## Structured Downloads
 * **[`Saturn.data.json`](https://github.com/niemasd/GameDB-Saturn/releases/latest/download/Saturn.data.json):** All data, structured in the JSON format
