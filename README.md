@@ -14,5 +14,6 @@ Sega Saturn, part of [GameDB](https://github.com/niemasd/GameDB).
 The game folders in [`games`](games) have the structure `T-XXXX`, which is the game code (also known as game ID), which is at offsets `0x30` through `0x39` (inclusive) of the disc header, and which can be used to uniquely identify the game.
 
 # Sources
-* [Redump](https://redump.org/)
+* [GameFAQs](https://gamefaqs.gamespot.com/
+* [Redump](https://redump.org)
 * [Sega Retro](https://segaretro.org/Category:Saturn_games)
