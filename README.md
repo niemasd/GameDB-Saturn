@@ -11,7 +11,7 @@ Sega Saturn, part of [GameDB](https://github.com/niemasd/GameDB).
 
 ## Uniquely Identifying Games
 
-The game folders in [`games`](games) have the structure `T-XXXX`, which is the game code (also known as game ID), which is at offsets `0x30` through `0x39` (inclusive) of the disc header, and which can be used to uniquely identify the game.
+The game folders in [`games`](games) have the structure `T-XXXX`, which is the game code (also known as game ID), which is at offsets `0x30` through `0x39` (inclusive) of the disc header, and which can be used to uniquely identify the game. It seems as though, in some cases, the offsets can vary, so I would recommend searching for the Sega Saturn "magic word" (which is the string `"SEGA SEGASATURN "`) and calculating this offset as some delta vs. the magic word's offset. See [Wiki](https://github.com/niemasd/GameDB-Saturn/wiki) for details.
 
 # Sources
 * [GameFAQs](https://gamefaqs.gamespot.com/
