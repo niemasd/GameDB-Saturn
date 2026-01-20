@@ -24,7 +24,7 @@ Total games: **3,511** (vs [Redump](http://redump.org/discs/system/ss/): 2,366 d
 | region | 2,425 | 69% |
 | version | 2,420 | 68% |
 | language | 2,166 | 61% |
-| release_name | 1,664 | 47% |
+| release_name | 2,317 | 66% |
 | internal_title | 1,670 | 47% |
 | device_info | 1,670 | 47% |
 | target_area | 1,670 | 47% |
