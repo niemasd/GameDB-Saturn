@@ -1,2 +1,1 @@
-Joypad
-RAM Cart
+Joypad / RAM Cart
