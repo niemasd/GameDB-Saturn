@@ -1,1 +1,2 @@
-Joypad / Analog Controller (3D-pad)
+Joypad
+Analog Controller (3D-pad)

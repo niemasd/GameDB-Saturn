@@ -1,1 +1,3 @@
-Joypad / Analog Controller (3D-pad) / Steering Wheel
+Joypad
+Analog Controller (3D-pad)
+Steering Wheel
