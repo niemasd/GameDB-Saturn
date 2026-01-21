@@ -1,1 +1,2 @@
-Joypad / Multi-Tap
+Joypad
+Multi-Tap
